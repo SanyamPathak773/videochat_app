@@ -1,0 +1,21 @@
+.container{
+    background-color: rgb(55, 56, 56);
+}
+.header{
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    top:0;
+    margin-bottom: 10px;
+    position: sticky;
+}
+.by{
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+h5{
+    margin-top: -7px
+}
